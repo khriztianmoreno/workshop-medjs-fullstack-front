@@ -24,6 +24,7 @@ const Home = () => {
   return (
     <>
       <Header />
+      hola
       <div className="container mt-4">
         <div className="row">
           {
